@@ -1,0 +1,67 @@
+﻿The game Rock/Paper/Scissors has the following rules:
+
+Scissors always wins against Paper
+Rock always wins against Scissors
+Paper always wins against Rock
+Create the following three classes that follow these rules:
+
+PlayerRock – Always performs the Act() of Rock.
+PlayerScissors – Always performs the Act() of Scissors.
+PlayerPaper – Always performs the Act() of Paper.
+Create a Game class that has a method named Fight() that satisifies these requirements:
+
+The Fight() method accepts two parameters:  Player1 and Player2.
+The Fight() method calls both player's Act() methods.
+The Fight() method returns the winning player using the Rock/Paper/Scissors rules above.
+After 100 rounds, which player wins?
+
+
+1.  Loop through the game 100 times - no input??
+2.  The act of Rock: if rock & paper win = false; if rock & scissors, win = true; return win
+3.  The act of Paper: if paper & rock win = true; if paper & scissors, win = false; return win
+4.  The act of Scissors: if scissors & rock win = false; if scissors & paper win = true; return win
+5.  Game Class:
+	5a.  Fight("player1", "player2", player1WinCount, player2WinCount)
+			
+			player1Rock = new PlayerRock(player2)
+
+			PlayerRock(player1, player2)				
+			PlayerPaper(player1, player2)
+			PlayerScissors(player1, player2)
+			
+6.  PlayerRock Class 
+		Constructor()
+		Act(otherWeapon)
+			if (otherWeapon == "scissors")
+			{
+				bool win = true;
+			}
+			else
+			{
+				bool win = false;
+			}
+
+7.  PlayerPaper Class 
+		Constructor()
+		Act(otherWeapon)
+			if (otherWeapon == "rock")
+			{
+				bool win = true;
+			}
+			else
+			{
+				bool win = false;
+			}
+	
+8.  PlayerScissors Class 
+		Constructor()
+		Act(otherWeapon)
+			if (otherWeapon == "paper")
+			{
+				bool win = true;
+			}
+			else
+			{
+				bool win = false;
+			}
+

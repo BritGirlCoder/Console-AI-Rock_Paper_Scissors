@@ -1,0 +1,6 @@
+C:\CoderCamps - Main\Projects\Day 12 Projects\Homework\Homework\bin\Debug\Homework.exe.config
+C:\CoderCamps - Main\Projects\Day 12 Projects\Homework\Homework\bin\Debug\Homework.exe
+C:\CoderCamps - Main\Projects\Day 12 Projects\Homework\Homework\bin\Debug\Homework.pdb
+C:\CoderCamps - Main\Projects\Day 12 Projects\Homework\Homework\obj\Debug\Homework.csprojResolveAssemblyReference.cache
+C:\CoderCamps - Main\Projects\Day 12 Projects\Homework\Homework\obj\Debug\Homework.exe
+C:\CoderCamps - Main\Projects\Day 12 Projects\Homework\Homework\obj\Debug\Homework.pdb
